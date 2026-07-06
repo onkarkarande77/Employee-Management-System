@@ -358,21 +358,7 @@ This project helped me gain practical experience in:
 - Dark Mode
 
 ---
-
-# 📸 Screenshots
-
-> Add screenshots of your application here.
-
-Example:
-
-```
-screenshots/
-│
-├── dashboard.png
-├── add-employee.png
-├── employee-list.png
-├── update-employee.png
-```
+ 
 
 ---
 
