@@ -41,8 +41,8 @@ This project demonstrates the fundamentals of Full Stack Web Development includi
 - React Router
 - Axios
 - JavaScript (ES6+)
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Backend
 
@@ -303,7 +303,7 @@ npm start
 Backend runs on:
 
 ```
-http://localhost:5000
+http://localhost:8000
 ```
 
 ---
@@ -341,25 +341,7 @@ This project helped me gain practical experience in:
 - Client-Server Architecture
 - Git & GitHub
 - REST API Development
-
----
-
-# 🔮 Future Enhancements
-
-- User Authentication
-- JWT Authentication
-- Role-Based Access Control
-- Employee Search
-- Pagination
-- Dashboard Analytics
-- File Uploads
-- Export Employee Data
-- Responsive Admin Dashboard
-- Dark Mode
-
----
- 
-
+  
 ---
 
 # 👨‍💻 Author
